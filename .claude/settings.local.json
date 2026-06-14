@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer *)",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\client\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\server\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\client\\\\src\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\client\\\\public\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\client\\\\src\\\\components\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\client\\\\src\\\\pages\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\client\\\\src\\\\context\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\server\\\\controllers\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\server\\\\middleware\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\server\\\\models\")",
+      "Bash(dir \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\server\\\\routes\")",
+      "Bash(dir C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\server *)",
+      "Bash(npm --version)",
+      "Bash(mongod --version)",
+      "Bash(powershell *)",
+      "Bash(where mongod *)",
+      "Bash(where mongo *)",
+      "Bash(where mongosh *)",
+      "Bash(dir C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\\\\server\\\\controllers *)",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\laptops galaxy\\\\Desktop\\\\AI Essay Writer\" -Recurse -Force | Where-Object { -not $_.PSIsContainer -and $_.FullName -notmatch 'node_modules' } | Select-Object FullName, Length)",
+      "PowerShell(npm *)"
+    ]
+  }
+}
