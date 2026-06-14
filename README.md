@@ -12,16 +12,28 @@ Built a responsive single page application using React with React Router, protec
 Implemented MongoDB database with automatic in memory fallback to ensure smooth deployment without configuration issues
 Focused on performance, scalability, and clean user experience across all modules
 
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/e6382915-4bcd-4219-9dd4-00f03fc8252f" />
+<img width="950" height="435" alt="1" src="https://github.com/user-attachments/assets/6b76b615-0b94-411c-935e-261930e173f8" />
 
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/60ea16dd-ca95-435a-8741-8fbb9a866dc9" />
 
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/24e2ea09-74cf-4ada-a5d3-ffd29a930233" />
+<img width="950" height="427" alt="2" src="https://github.com/user-attachments/assets/88495606-b05e-4c9a-a2df-caf7e1631d81" />
 
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/76b96e9d-754a-45dd-927f-0a9e4927e9c3" />
 
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/f6d0a0ed-d45f-4d21-923b-3bcd0eb6039d" />
+<img width="959" height="434" alt="3" src="https://github.com/user-attachments/assets/2afaf3a8-8d9e-4558-87e9-2441ed18f995" />
 
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/975614b7-9239-4e2e-a15b-055c09338b75" />
 
-<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/395b9536-c1ed-4a44-8150-c75d3e53e995" />
+<img width="956" height="443" alt="4" src="https://github.com/user-attachments/assets/a2a4fc0d-39b9-47c7-94d4-2f81d652d352" />
+
+
+<img width="937" height="438" alt="5" src="https://github.com/user-attachments/assets/45f70616-6cf4-4f5f-9c7b-5f774ad51ffa" />
+
+
+<img width="955" height="295" alt="6" src="https://github.com/user-attachments/assets/6fb4050e-7941-4452-9dca-709e52a00c18" />
+
+
+<img width="949" height="443" alt="7" src="https://github.com/user-attachments/assets/1283f4d5-6d10-409b-8d64-2435c79c7c35" />
+
+
+<img width="947" height="434" alt="8" src="https://github.com/user-attachments/assets/659bb535-4af5-4b4e-b943-87a6a6a53c0e" />
+
+
+<img width="945" height="437" alt="9" src="https://github.com/user-attachments/assets/39878368-7e6b-40bb-b4d0-2fc2b358ec01" />
