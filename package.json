@@ -12,5 +12,20 @@
   },
   "dependencies": {
     "@google/genai": "^2.8.0"
-  }
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamzak4/AI-Essay-Writer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hamzak4/AI-Essay-Writer/issues"
+  },
+  "homepage": "https://github.com/Hamzak4/AI-Essay-Writer#readme"
 }
