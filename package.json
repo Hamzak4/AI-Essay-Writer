@@ -2,11 +2,13 @@
   "name": "ai-essay-writer",
   "private": true,
   "scripts": {
-    "server": "npm run dev --prefix server",
-    "client": "npm start --prefix client",
-    "dev": "concurrently --kill-others \"npm run server\" \"npm run client\"",
-    "install:all": "npm install && cd server && npm install && cd ../client && npm install"
-  },
+  "server": "npm run dev --prefix server",
+  "client": "npm start --prefix client",
+  "dev": "concurrently --kill-others \"npm run server\" \"npm run client\"",
+  "build": "npm run build --prefix client",
+  "start": "npm start --prefix server",
+  "install:all": "npm install && cd server && npm install && cd ../client && npm install"
+},
   "devDependencies": {
     "concurrently": "^9.1.0"
   },
@@ -15,7 +17,6 @@
   },
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hamzak4/AI-Essay-Writer.git"
