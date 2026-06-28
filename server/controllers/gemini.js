@@ -14,7 +14,7 @@ async function generateContent(prompt) {
     throw new Error('Gemini API key is not configured. Add GEMINI_API_KEY to server/.env and restart the server.');
   }
   const response = await ai.models.generateContent({
-    model: 'gemini-3.5-flash',
+    model: 'gemini-3.1-flash-lite',
     contents: prompt,
   });
   return response.text;
